@@ -1,0 +1,22 @@
+.rowC {
+  display: flex;
+  flex-direction: row;
+}
+
+.userdetail {
+  margin: 20px 50px 0px 0px;
+  padding: 20px 20px 20px 20px;
+  border: 1px solid rgb(138, 138, 97);
+  /* background-color: aqua; */
+}
+
+button:disabled,
+button[disabled] {
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+/* .seat {
+  background-color: red;
+  border: 1px solid black;
+} */

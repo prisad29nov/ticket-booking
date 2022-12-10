@@ -1,0 +1,11 @@
+.movie-container {
+  width: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  grid-gap: 70px;
+  margin: 0px 5px 40px 5px;
+}
+
+/* body {
+  background-color: rgb(79, 72, 68);
+} */
